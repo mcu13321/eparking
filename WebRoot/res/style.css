@@ -1,0 +1,32 @@
+.index{
+	
+}
+
+.sub_bos{
+	
+}
+p{
+	float:left;
+}
+
+
+#sub_blank{
+	width:20px;
+	height:20px;
+	background:green;
+	float: left;
+}
+
+#sub_ordered{
+	width:20px;
+	height:20px;
+	background:yellow;
+	float: left;
+}
+
+#sub_stoped{
+	width:20px;
+	height:20px;
+	background: red;
+	float: left;
+}

@@ -1,0 +1,11 @@
+MySQLURL=jdbc:mysql://localhost:3306/test?user=root&password=root&useUnicode=true&characterEncoding=utf8
+
+seller=
+partner=
+key=
+
+weburl=http://testbanner.app:9011/test/
+
+
+
+
